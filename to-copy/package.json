@@ -1,0 +1,23 @@
+{
+  "name": "rhs-course-site-builder-dev",
+  "description": "RedHat Scholars Course Builder Dev",
+  "homepage": "https://redhat-scholars.github.io",
+  "author": {
+    "email": "kameshs@redhat.com",
+    "name": "Kamesh Sampath"
+  },
+  "dependencies": {
+    "@antora/cli": "^2.3.3",
+    "@antora/site-generator-default": "^2.3.3",
+    "browser-sync": "^2.26.7",
+    "fs-extra": "^8.1.0",
+    "gulp": "^4.0.0",
+    "yaml-js": "^0.2.3",
+    "yargs": "^15.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redhat-scholars/openshift-admins-devops.git"
+  },
+  "license": "Apache-2.0"
+}
